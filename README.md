@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.svg" width="100%" alt="Carlos Eduardo — Software Developer" />
+  <img src="banner.svg" width="100%" alt="Carlos Eduardo — Software Developer" />
 
   <br />
 
