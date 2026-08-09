@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Carlos Eduardo — Software Developer</title>
+  <desc id="desc">Banner negro, plateado y azul para el perfil de GitHub de Carlos Eduardo.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#05070A"/>
+      <stop offset="0.58" stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1F6FEB"/>
+      <stop offset="1" stop-color="#58A6FF"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="12" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#A7B0BE" stroke-opacity=".055"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="360" rx="26" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="26" fill="url(#grid)"/>
+  <circle cx="1040" cy="78" r="150" fill="#1F6FEB" opacity=".10" filter="url(#glow)"/>
+  <circle cx="90" cy="330" r="190" fill="#A7B0BE" opacity=".045"/>
+  <path d="M0 328C230 272 378 367 598 313s380-78 602-18v65H0Z" fill="#1F6FEB" opacity=".12"/>
+  <path d="M0 340C245 294 400 376 611 329s383-68 589-20" fill="none" stroke="url(#blue)" stroke-width="3" opacity=".9"/>
+
+  <g transform="translate(84 77)">
+    <rect width="10" height="154" rx="5" fill="url(#blue)"/>
+    <text x="38" y="48" fill="#A7B0BE" font-family="Segoe UI, Arial, sans-serif" font-size="22" letter-spacing="5">HOLA, SOY</text>
+    <text x="34" y="111" fill="#F0F3F6" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="700">Carlos Eduardo</text>
+    <text x="38" y="154" fill="#58A6FF" font-family="Consolas, monospace" font-size="25">&lt; Software Developer /&gt;</text>
+  </g>
+
+  <g transform="translate(898 124)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M45 18 8 64l37 46" stroke="#A7B0BE" stroke-width="10"/>
+    <path d="m127 18 37 46-37 46" stroke="#A7B0BE" stroke-width="10"/>
+    <path d="m104 0-38 128" stroke="#1F6FEB" stroke-width="11" filter="url(#glow)"/>
+  </g>
+
+  <text x="1115" y="326" text-anchor="end" fill="#A7B0BE" opacity=".72" font-family="Consolas, monospace" font-size="18">@jr-0205</text>
+  <rect x="1.5" y="1.5" width="1197" height="357" rx="24.5" fill="none" stroke="#30363D" stroke-width="3"/>
+</svg>
