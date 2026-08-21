@@ -3,8 +3,8 @@
 
   <br />
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Desarrollador+de+software+en+formaci%C3%B3n;Convirtiendo+ideas+en+proyectos;Aprendiendo+y+mejorando+un+commit+a+la+vez" alt="Presentación animada" />
+  <a href="https://github.com/jr-0205">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=Desarrollador+backend+y+web+en+formaci%C3%B3n;APIs+con+Node.js%2C+TypeScript+y+SQL;Mods+de+cliente+con+Java+y+Fabric;Convirtiendo+prototipos+en+betas+demostrables" alt="Desarrollador backend, web y de herramientas de cliente en formación" />
   </a>
 
   <a href="https://github.com/jr-0205?tab=followers">
@@ -17,10 +17,11 @@
 
 > **Creo que el buen software comienza entendiendo bien el problema.**
 
-Soy **Carlos Eduardo Martínez Morales**, desarrollador en formación con interés en crear soluciones claras, útiles y bien estructuradas. Actualmente estoy fortaleciendo mis bases en desarrollo web, programación, bases de datos y control de versiones.
+Soy **Carlos Eduardo Martínez Morales**, desarrollador backend y web en formación. Construyo APIs, modelos relacionales, herramientas frontend y utilidades de cliente con Java y Fabric, documentando tanto las decisiones técnicas como los límites de cada beta.
 
 - 🔭 Construyendo proyectos para convertir lo aprendido en experiencia práctica.
-- 🌱 Profundizando en **JavaScript, desarrollo web y bases de datos**.
+- 🌱 Profundizando en **Node.js, TypeScript, Java 21, Fabric, Gradle y bases de datos SQL**.
+- 🎮 Desarrollo herramientas de cliente para Minecraft con atención a compatibilidad, inventarios y experiencia de uso.
 - 🧠 Me interesa escribir código legible, comprender el problema y mejorar continuamente.
 - 🤝 Abierto a colaborar en proyectos para principiantes y aprender en equipo.
 - ⚡ Mi objetivo: crecer como desarrollador y crear software que aporte valor real.
@@ -29,11 +30,11 @@ Soy **Carlos Eduardo Martínez Morales**, desarrollador en formación con inter�
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=html,css,js,mysql,git,github,vscode&theme=dark&perline=7" alt="HTML, CSS, JavaScript, MySQL, Git, GitHub y Visual Studio Code" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,java,gradle,mysql,git,github,vscode&theme=dark&perline=12" alt="HTML, CSS, JavaScript, TypeScript, Node.js, Express, Java, Gradle, MySQL, Git, GitHub y Visual Studio Code" />
 
   <br /><br />
 
-  <samp>HTML · CSS · JavaScript · MySQL · Git · GitHub · VS Code</samp>
+  <samp>Node.js · TypeScript · Express · Prisma · SQL · Java · Fabric · Gradle · HTML · CSS · Git</samp>
 
 </div>
 
@@ -41,20 +42,32 @@ Soy **Carlos Eduardo Martínez Morales**, desarrollador en formación con inter�
 
 | Ahora | Siguiente objetivo |
 | :--- | :--- |
-| `01` Consolidar fundamentos de programación | `03` Crear proyectos web completos |
-| `02` Diseñar bases de datos normalizadas | `04` Aplicar buenas prácticas con Git |
+| `01` Construir betas verificables y herramientas de cliente | `03` Ampliar pruebas de integración |
+| `02` Diseñar APIs y bases normalizadas | `04` Desplegar demostraciones reproducibles |
 
 ## 📌 Proyectos destacados
 
-> Mis primeros proyectos públicos están en camino. Aquí mostraré trabajos que documenten el problema, las decisiones técnicas y lo que aprendí durante el proceso.
+| Proyecto | Qué demuestra | Estado |
+| :--- | :--- | :---: |
+| [CobbleSort](https://github.com/jr-0205/cobblesort) | Mod de cliente con Java 21 y Fabric; ordenamiento seguro de inventarios, compatibilidad con Cobblemon y localización ES/EN | `Beta 1.0.1` |
+| [Comet Movies — api-prueba](https://github.com/jr-0205/api-prueba) | API REST y catálogo visual con roles, CRUD administrativo, avatares aprobados, imágenes verticales/horizontales y tráileres integrados | `Beta educativa` |
+| [AUT-INS API](https://github.com/jr-0205/aut-ins-api) | Arquitectura modular, TypeScript, Express, Prisma, MySQL, demostración por roles y documentación del dominio escolar | `Beta académica` |
+| [Mini-Skin Studio — skin](https://github.com/jr-0205/skin) | Edición y composición de skins con Canvas, vista 3D, validación de PNG, privacidad local y experiencia responsive | `Beta frontend` |
 
-<!-- Cuando tengas repositorios públicos, reemplaza USUARIO/REPOSITORIO:
-<div align="center">
-  <a href="https://github.com/jr-0205/REPOSITORIO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jr-0205&repo=REPOSITORIO&bg_color=0D1117&title_color=1F6FEB&text_color=A7B0BE&icon_color=1F6FEB&border_color=30363D" alt="Proyecto destacado" />
-  </a>
-</div>
--->
+Esta sección reúne los cuatro repositorios activos del proyecto: `cobblesort`, `api-prueba`, `aut-ins-api` y `skin`. Cada uno incluye instrucciones de instalación o ejecución, compatibilidad, alcance, controles de seguridad y límites conocidos. Utilizo datos ficticios en las demostraciones web y separo la configuración local y los archivos generados del código versionado.
+
+## ✅ Cómo trabajo
+
+```text
+Entender el problema → definir el contrato → validar entradas
+→ implementar una versión pequeña → probar → documentar límites y decisiones
+```
+
+- Commits y cambios acotados para facilitar la revisión.
+- Variables de entorno para configuración y secretos.
+- Consultas parametrizadas y autorización sobre recursos privados.
+- Pruebas automáticas para reglas críticas y contratos HTTP.
+- Compatibilidad y versiones documentadas para que cada proyecto sea reproducible.
 
 ## 📊 Actividad en GitHub
 
