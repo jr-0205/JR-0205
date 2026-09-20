@@ -1,96 +1,97 @@
 <div align="center">
-  <img src="banner.svg" width="100%" alt="Carlos Eduardo — Software Developer" />
-
-  <br />
-
-  <a href="https://github.com/jr-0205">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=Desarrollador+backend+y+web+en+formaci%C3%B3n;APIs+con+Node.js%2C+TypeScript+y+SQL;Mods+de+cliente+con+Java+y+Fabric;Convirtiendo+prototipos+en+betas+demostrables" alt="Desarrollador backend, web y de herramientas de cliente en formación" />
-  </a>
-
-  <a href="https://github.com/jr-0205?tab=followers">
-    <img src="https://img.shields.io/github/followers/jr-0205?label=Seguidores&style=for-the-badge&logo=github&logoColor=white&color=1F6FEB&labelColor=0D1117" alt="Seguidores en GitHub" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=jr-0205&style=for-the-badge&color=1F6FEB&label=VISITAS" alt="Visitas al perfil" />
+  <img src="banner.svg" width="100%" alt="Carlos Eduardo Martínez Morales — Software, Systems & Tools" />
 </div>
 
-## 👨‍💻 Sobre mí
+# Carlos Eduardo Martínez Morales
 
-> **Creo que el buen software comienza entendiendo bien el problema.**
+**Ingeniería en Sistemas Computacionales · Software Developer**
 
-Soy **Carlos Eduardo Martínez Morales**, desarrollador backend y web en formación. Construyo APIs, modelos relacionales, herramientas frontend y utilidades de cliente con Java y Fabric, documentando tanto las decisiones técnicas como los límites de cada beta.
+Construyo proyectos que cruzan **backend, aplicaciones de escritorio, frontend y tooling**. Mi trabajo público actual incluye launchers para Windows, APIs con TypeScript, utilidades de sistema, mods con Fabric y herramientas web para Minecraft.
 
-- 🔭 Construyendo proyectos para convertir lo aprendido en experiencia práctica.
-- 🌱 Profundizando en **Node.js, TypeScript, Java 21, Fabric, Gradle y bases de datos SQL**.
-- 🎮 Desarrollo herramientas de cliente para Minecraft con atención a compatibilidad, inventarios y experiencia de uso.
-- 🧠 Me interesa escribir código legible, comprender el problema y mejorar continuamente.
-- 🤝 Abierto a colaborar en proyectos para principiantes y aprender en equipo.
-- ⚡ Mi objetivo: crecer como desarrollador y crear software que aporte valor real.
+[CV online](https://github.com/jr-0205/mi-cv-online) · [Repositorios](https://github.com/jr-0205?tab=repositories)
 
-## 🧰 Tecnologías y herramientas
+---
 
-<div align="center">
+## Perfil
 
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,java,gradle,mysql,git,github,vscode&theme=dark&perline=12" alt="HTML, CSS, JavaScript, TypeScript, Node.js, Express, Java, Gradle, MySQL, Git, GitHub y Visual Studio Code" />
+Mi objetivo es convertir problemas concretos en software que pueda **entenderse, probarse y mantenerse**. Antes de añadir complejidad intento definir el flujo, separar responsabilidades, conservar estados importantes y documentar límites.
 
-  <br /><br />
+Actualmente trabajo con:
 
-  <samp>Node.js · TypeScript · Express · Prisma · SQL · Java · Fabric · Gradle · HTML · CSS · Git</samp>
+`C#` · `.NET` · `WPF` · `WebView2` · `React` · `TypeScript` · `Node.js` · `Express` · `Prisma` · `MySQL` · `SQLite` · `Java` · `Fabric` · `Gradle` · `HTML` · `CSS` · `JavaScript`
 
-</div>
+## Trabajo destacado
 
-## 🚀 En qué estoy trabajando
+| Proyecto | Área | Qué demuestra |
+| --- | --- | --- |
+| [NEXA Client](https://github.com/jr-0205/NexoLauncher) | Desktop / Minecraft | Launcher nativo para Windows con .NET 10, WPF/WebView2 y React; perfiles aislados, loaders, Java, contenido instalado, logs e instalador x64. |
+| [Windows 11 Optimizer](https://github.com/jr-0205/win11) | Desktop / Sistemas | Aplicación WPF en .NET 8 para medir y reducir actividad en segundo plano con backup, reversibilidad y modos de virtualización. |
+| [AUT-INS API](https://github.com/jr-0205/aut-ins-api) | Backend | API modular con TypeScript, Express, Prisma y MySQL para procesos de admisión e inscripción escolar. |
+| [Comet Movies](https://github.com/jr-0205/api-prueba) | API + Web | Catálogo con autenticación, perfiles, favoritos, roles, CRUD administrativo, SQLite y despliegue demostrativo. |
+| [CobbleSort](https://github.com/jr-0205/cobblesort) | Java / Fabric | Mod de cliente para Minecraft 1.21.1 que ordena inventarios y prioriza objetos de Cobblemon. |
+| [Mini-Skin Studio](https://github.com/jr-0205/skin) | Frontend | Herramientas web para combinar skins, crear peluches y editar texturas con procesamiento local. |
+| [Grupos Huevo · Cobblemon](https://github.com/jr-0205/grupo-huevo-cobblemon) | Frontend / Datos | Guía local con filtros por Pokémon, grupo huevo y generación, diseñada para consulta rápida y responsive. |
 
-| Ahora | Siguiente objetivo |
-| :--- | :--- |
-| `01` Construir betas verificables y herramientas de cliente | `03` Ampliar pruebas de integración |
-| `02` Diseñar APIs y bases normalizadas | `04` Desplegar demostraciones reproducibles |
+## Mapa de repositorios públicos
 
-## 📌 Proyectos destacados
+| Repositorio | Enfoque | Tecnologías visibles |
+| --- | --- | --- |
+| [api-prueba](https://github.com/jr-0205/api-prueba) | Comet Movies API + catálogo | Node.js, Express, SQLite, HTML, CSS, JavaScript |
+| [mi-cv-online](https://github.com/jr-0205/mi-cv-online) | CV y portafolio web | HTML, CSS, JavaScript, EmailJS |
+| [skin](https://github.com/jr-0205/skin) | Mini-Skin Studio | HTML, CSS, JavaScript, Canvas |
+| [aut-ins-api](https://github.com/jr-0205/aut-ins-api) | Plataforma académica de admisión | TypeScript, Express, Prisma, MySQL |
+| [JR-0205](https://github.com/jr-0205/JR-0205) | Perfil técnico de GitHub | Markdown, SVG |
+| [cobblesort](https://github.com/jr-0205/cobblesort) | Mod de ordenamiento para Minecraft | Java 21, Fabric, Gradle |
+| [grupo-huevo-cobblemon](https://github.com/jr-0205/grupo-huevo-cobblemon) | Consulta de compatibilidad Pokémon | HTML, CSS, JavaScript |
+| [NexoLauncher](https://github.com/jr-0205/NexoLauncher) | NEXA Client | .NET 10, C#, WPF, WebView2, React, TypeScript |
+| [NexaClientPremium](https://github.com/jr-0205/NexaClientPremium) | Base pública de NEXA Client | .NET 10, C#, WPF, WebView2, React, TypeScript |
+| [win11](https://github.com/jr-0205/win11) | Windows 11 Optimizer | .NET 8, C#, WPF, PowerShell |
 
-| Proyecto | Qué demuestra | Estado |
-| :--- | :--- | :---: |
-| [CobbleSort](https://github.com/jr-0205/cobblesort) | Mod de cliente con Java 21 y Fabric; ordenamiento seguro de inventarios, compatibilidad con Cobblemon y localización ES/EN | `Beta 1.0.1` |
-| [Comet Movies — api-prueba](https://github.com/jr-0205/api-prueba) | API REST y catálogo visual con roles, CRUD administrativo, avatares aprobados, imágenes verticales/horizontales y tráileres integrados | `Beta educativa` |
-| [AUT-INS API](https://github.com/jr-0205/aut-ins-api) | Arquitectura modular, TypeScript, Express, Prisma, MySQL, demostración por roles y documentación del dominio escolar | `Beta académica` |
-| [Mini-Skin Studio — skin](https://github.com/jr-0205/skin) | Edición y composición de skins con Canvas, vista 3D, validación de PNG, privacidad local y experiencia responsive | `Beta frontend` |
-
-Esta sección reúne los cuatro repositorios activos del proyecto: `cobblesort`, `api-prueba`, `aut-ins-api` y `skin`. Cada uno incluye instrucciones de instalación o ejecución, compatibilidad, alcance, controles de seguridad y límites conocidos. Utilizo datos ficticios en las demostraciones web y separo la configuración local y los archivos generados del código versionado.
-
-## ✅ Cómo trabajo
+## Cómo trabajo
 
 ```text
-Entender el problema → definir el contrato → validar entradas
-→ implementar una versión pequeña → probar → documentar límites y decisiones
+Problema
+  ↓
+Flujo y alcance
+  ↓
+Contrato / modelo
+  ↓
+Implementación pequeña
+  ↓
+Validación y pruebas
+  ↓
+Documentación
+  ↓
+Refinamiento visual y técnico
 ```
 
-- Commits y cambios acotados para facilitar la revisión.
-- Variables de entorno para configuración y secretos.
-- Consultas parametrizadas y autorización sobre recursos privados.
-- Pruebas automáticas para reglas críticas y contratos HTTP.
-- Compatibilidad y versiones documentadas para que cada proyecto sea reproducible.
+Principios que intento mantener en los proyectos:
 
-## 📊 Actividad en GitHub
+- separar lógica, persistencia y presentación;
+- tratar operaciones destructivas con confirmación y reversibilidad;
+- validar entradas y estados antes de ejecutar cambios;
+- documentar instalación, compatibilidad y límites conocidos;
+- preferir interfaces claras antes que pantallas llenas de controles;
+- mantener los detalles técnicos disponibles sin obligar al usuario normal a entenderlos.
 
-<div align="center">
-  <a href="https://github.com/jr-0205?tab=overview">
-    <img src="https://streak-stats.demolab.com?user=jr-0205&amp;theme=transparent&amp;hide_border=false&amp;border=30363D&amp;border_radius=12&amp;background=0D1117&amp;ring=1F6FEB&amp;fire=58A6FF&amp;currStreakLabel=58A6FF&amp;sideLabels=A7B0BE&amp;currStreakNum=F0F3F6&amp;sideNums=F0F3F6&amp;dates=7D8590&amp;locale=es" alt="Racha de contribuciones de jr-0205" />
-  </a>
+## Áreas que estoy fortaleciendo
 
-  <p><samp>El trabajo público hablará por sí mismo: proyectos, documentación y constancia.</samp></p>
-</div>
+**Backend:** contratos HTTP, autorización, persistencia relacional, Prisma, pruebas e integración.
 
-## 🤝 Conectemos
+**Desktop:** WPF, WebView2, arquitectura por capas, automatización de builds e instaladores de Windows.
 
-<div align="center">
-  <a href="https://github.com/jr-0205">
-    <img src="https://img.shields.io/badge/GitHub-jr--0205-1F6FEB?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Perfil de GitHub" />
-  </a>
-</div>
+**Frontend:** interfaces responsive, estados accesibles, jerarquía visual y componentes claros.
+
+**Minecraft tooling:** Java 21, Fabric, Gradle, manipulación segura de inventarios y herramientas de cliente.
+
+## Demo pública
+
+**Comet Movies:** https://api-prueba-9hox.onrender.com/
+
+> Las cuentas y datos de demostración descritos dentro de los proyectos son ficticios. No uso información personal real como contenido de prueba.
 
 ---
 
 <div align="center">
-  <sub>Construyendo, aprendiendo y mejorando un commit a la vez.</sub>
-  <br />
-  <sub><kbd>NEGRO</kbd> · <kbd>PLATEADO</kbd> · <kbd>AZUL</kbd></sub>
+  <sub>Software, systems & tools · @jr-0205</sub>
 </div>
