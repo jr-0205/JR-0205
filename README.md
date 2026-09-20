@@ -8,7 +8,7 @@
 
 Construyo proyectos que cruzan **backend, aplicaciones de escritorio, frontend y tooling**. Mi trabajo público actual incluye launchers para Windows, APIs con TypeScript, utilidades de sistema, mods con Fabric y herramientas web para Minecraft.
 
-[CV online](https://github.com/jr-0205/mi-cv-online) · [Repositorios](https://github.com/jr-0205?tab=repositories)
+[CV online](https://jr-0205.github.io/mi-cv-online/#inicio) · [Repositorios](https://github.com/jr-0205?tab=repositories)
 
 ---
 
